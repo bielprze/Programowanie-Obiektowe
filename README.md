@@ -1,2 +1,2 @@
 # Programowanie-Obiektowe
-kol1 - program do kolokwium 1
+laboratoria nr 6 - Graficzny interfejs użytkownika
