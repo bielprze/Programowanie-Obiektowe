@@ -1,2 +1,2 @@
 # Programowanie-Obiektowe
-kol1 - program do kolokwium 1
+Laboratorium 7 - Przechowywanie informacji w bazach danych
