@@ -1,2 +1,2 @@
 # Programowanie-Obiektowe
-Laboratorium 7 - Przechowywanie informacji w bazach danych
+Laboratorium 9 - Aplikacje sieciowe
