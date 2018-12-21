@@ -17,4 +17,4 @@ Laboratorium nr 7 - Przechowywanie informacji w bazach danych
 
 Laboratorium nr 8 - Przetwarzanie współbieżne
 
-Laboratorium nr 9 - Aplikacje sieciowe
+Laboratorium nr 9 - Aplikacje sieciowe //Została wprowadzona drobna zmiana w celu uproszczenia testowania kodu - ID z zadania ma 4 znaki zamiast 10
