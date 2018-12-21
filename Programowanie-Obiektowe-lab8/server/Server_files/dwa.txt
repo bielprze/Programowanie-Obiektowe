@@ -1,2 +1,0 @@
-String s2 = s1;
-// extracting all characters
