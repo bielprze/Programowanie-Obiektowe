@@ -14,3 +14,7 @@ Laboratorium nr 5 - Testowanie oprogramowania
 Laboratorium nr 6 - Graficzny interfejs użytkownika
 
 Laboratorium nr 7 - Przechowywanie informacji w bazach danych
+
+Laboratorium nr 8 - Przetwarzanie współbieżne
+
+Laboratorium nr 9 - Aplikacje sieciowe
